@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habit Tracker é um aplicativo com auxilio das marcações de rotina.
 
+- [Visite o projeto online] https://musta-eideh.github.io/Habit_Tracker/
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
